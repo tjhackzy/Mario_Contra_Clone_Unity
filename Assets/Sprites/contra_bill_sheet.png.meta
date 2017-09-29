@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: bc9606d0a075f014cb62b8e617f763aa
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: contra_bill_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 84
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 87
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 85
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 85
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 85
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 86
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 94
+        width: 34
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 79
+        width: 14
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 95
+        width: 26
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 100
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 52
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 54
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 52
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 53
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 51
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 50
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 53
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 57
+        width: 34
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 50
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 48
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 19
+        height: 45
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 6
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2
+        width: 20
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3
+        width: 19
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 25
+        height: 45
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 36
+        width: 3
+        height: 2
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 37
+        width: 1
+        height: 1
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 37
+        width: 1
+        height: 1
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 36
+        width: 3
+        height: 2
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 11
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 32
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 32
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 30
+        width: 1
+        height: 1
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 30
+        width: 1
+        height: 1
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 27
+        width: 1
+        height: 1
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 27
+        width: 1
+        height: 1
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 24
+        width: 1
+        height: 2
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 24
+        width: 1
+        height: 2
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 18
+        width: 1
+        height: 2
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 18
+        width: 1
+        height: 2
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 16
+        width: 1
+        height: 1
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 16
+        width: 1
+        height: 1
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 13
+        width: 1
+        height: 1
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 13
+        width: 1
+        height: 1
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 8
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 8
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 6
+        width: 3
+        height: 2
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 6
+        width: 1
+        height: 1
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 6
+        width: 1
+        height: 1
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 6
+        width: 3
+        height: 2
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: contra_bill_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

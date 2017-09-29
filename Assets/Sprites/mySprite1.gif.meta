@@ -1,0 +1,2425 @@
+fileFormatVersion: 2
+guid: 1338c2d8fc1bf384c8c9ccb32f70e4b1
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: mySprite1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 368
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 368
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 368
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 368
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 368
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 368
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 368
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 368
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 368
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 368
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 368
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 368
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 368
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 368
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 368
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_15
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 368
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 368
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 368
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 368
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 368
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 368
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_21
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 368
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 368
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_23
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 368
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_24
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 368
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_25
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 368
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_26
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 368
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_27
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 368
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 341
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 341
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 341
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 341
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 341
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 341
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 341
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 341
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 341
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 341
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 341
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 341
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 341
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 341
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 341
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_43
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 341
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_44
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 341
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_45
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 341
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_46
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 341
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_47
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 341
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_48
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 341
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_49
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 341
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_50
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 341
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_51
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 341
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_52
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 341
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_53
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 341
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_54
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 341
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_55
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 341
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_56
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 341
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_57
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 341
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 306
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 306
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_60
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 306
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 306
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_62
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 306
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_63
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 306
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 306
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 306
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_66
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 306
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 306
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_68
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 306
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_69
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 306
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_70
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 306
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_71
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 306
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_72
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 306
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 306
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_74
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 306
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_75
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 306
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_76
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 306
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_77
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 306
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_78
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 306
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_79
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 306
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_80
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 306
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_81
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 306
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_82
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 306
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_83
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 306
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_84
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 306
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_85
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 306
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_86
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 279
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_87
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 279
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_88
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 279
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_89
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 279
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_90
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 279
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_91
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 279
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_92
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 279
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_93
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 279
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_94
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 279
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_95
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 279
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_96
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 279
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_97
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 279
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_98
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 279
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_99
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 279
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_100
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 279
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_101
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 279
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_102
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 279
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_103
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 279
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_104
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 279
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_105
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 279
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_106
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 279
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_107
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 279
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_108
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 279
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_109
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 279
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_110
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 279
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_111
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 279
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_112
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 279
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_113
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 279
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_114
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 279
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_115
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 279
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_116
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 244
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_117
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 244
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_118
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 244
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_119
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 244
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_120
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 244
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_121
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 244
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_122
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 244
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 244
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_124
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 244
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_125
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 244
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_126
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 244
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_127
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 244
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_128
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 244
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_129
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 244
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_130
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 244
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_131
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 244
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_132
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 244
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_133
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 244
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_134
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 244
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_135
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 244
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_136
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 244
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_137
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 244
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_138
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 244
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_139
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 244
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_140
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 244
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_141
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 244
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_142
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 244
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_143
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 244
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_144
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 198
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_145
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 198
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_146
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 217
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_147
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 217
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_148
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 217
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_149
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 217
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_150
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 198
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_151
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 198
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_152
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 198
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_153
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 198
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_154
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 198
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_155
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 198
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_156
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 198
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_157
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 198
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_158
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 198
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_159
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 198
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_160
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 198
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_161
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 171
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_162
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 171
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_163
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 171
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_164
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 171
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_165
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 171
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_166
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 171
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 171
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_168
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 171
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_169
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 171
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_170
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 171
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_171
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 171
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_172
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 171
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_173
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 171
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_174
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 171
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_175
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 171
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_176
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 171
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_177
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 171
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_178
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 171
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_179
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 171
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_180
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 171
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_181
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 171
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_182
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 171
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_183
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 171
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_184
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 172
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_185
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_186
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_187
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 144
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_188
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_189
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 144
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_190
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 144
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_191
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 144
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_192
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 144
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_193
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 144
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_194
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 144
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_195
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 144
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_196
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 144
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_197
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 144
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_198
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 144
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_199
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 144
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_200
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 144
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_201
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 144
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_202
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_203
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 117
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_204
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 117
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_205
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 117
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_206
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 117
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_207
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 117
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_208
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 117
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_209
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 117
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_210
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 117
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_211
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 117
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_212
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 117
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_213
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 117
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_214
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 125
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_215
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 117
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_216
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 117
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_217
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 117
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_218
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 117
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_219
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 117
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_220
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 117
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_221
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 117
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_222
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 117
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_223
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 117
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_224
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 117
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_225
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 90
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_226
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 90
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_227
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 90
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_228
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 90
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_229
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 71
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_230
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_231
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_232
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_233
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 71
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_234
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_235
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_236
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_237
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 71
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_238
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_239
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_240
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_241
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_242
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_243
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_244
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 71
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_245
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_246
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_247
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_248
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 71
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_249
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_250
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_251
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 71
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_252
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 71
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_253
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 53
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_254
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 36
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_255
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 53
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_256
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_257
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_258
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_259
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_260
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_261
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_262
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: mySprite1_263
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
